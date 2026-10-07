@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/go-go-ackman-3)**.
+
 Traducción al **español de España** de *Go Go Ackman 3* para Super Nintendo / Super Famicom.
 
 El repositorio contiene este README. El **parche IPS** está disponible en [Releases](https://github.com/johanderohan/go-go-ackman-3-traduccion-es/releases). Necesitas tu propia copia de la ROM japonesa, sin cabecera de copiador.
